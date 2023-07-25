@@ -1,0 +1,24 @@
+##### Cashier Window #####
+
+Return        = Enter selected product andits quantity 
+Ctrl + R      =	Enter Reporting System
+Ctrl + P      = Confirm transaction
+Ctrl + F      = Refresh window
+
+
+##### REPORTING SYSTEM #####
+
+Ctrl + I      = Enter Inventory Edit System
+Ctrl + O      = Print inventory
+Ctrl + F      = Refresh Window
+
+
+##### Inventory Edit System #####
+
+Ctrl + D      = Delete the selected product
+Ctrl + S      = Save the product and its information
+Ctrl + I      = Add the value to the current quantity of the selected product 
+Ctrl + O      = Deduct the value to the current quantity of the selected product 
+Ctrl + P      = Change/replace the proce of the selected product
+
+
